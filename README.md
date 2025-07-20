@@ -36,8 +36,11 @@ A cool and stylish weather application that lets you search weather by city name
 ## 📁 Project Structure
 
 📁 Weather-App/
+
 ├── index.html # Main HTML file
+
 ├── style.css # Styling and animations
+
 ├── script.js # Weather & Map logic
 
 ---
